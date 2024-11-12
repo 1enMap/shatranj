@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.chess-board-animated * {
+  transition: all 0.3s ease-in-out;
+}
+
+@keyframes piece-move {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.piece-animated {
+  animation: piece-move 0.3s ease-in-out;
+}
