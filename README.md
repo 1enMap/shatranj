@@ -1,8 +1,8 @@
-# ChessMaster - Advanced Chess Analysis Platform
+# ShatRanj - Advanced Chess Analysis Platform
 
 A modern, feature-rich chess analysis platform built with React, TypeScript, and Tailwind CSS. Analyze games, study positions, and play against Stockfish engine.
 
-![ChessMaster Screenshot](https://images.unsplash.com/photo-1528819622765-d6bcf132f793?auto=format&fit=crop&q=80&w=1200)
+![ShatRanj Screenshot](https://images.unsplash.com/photo-1528819622765-d6bcf132f793?auto=format&fit=crop&q=80&w=1200)
 
 ## Features
 
@@ -26,8 +26,8 @@ A modern, feature-rich chess analysis platform built with React, TypeScript, and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chessmaster.git
-cd chessmaster
+git clone https://github.com/RUPAMLAHA-code/shatranj.git
+cd shatranj
 ```
 
 2. Install dependencies:
