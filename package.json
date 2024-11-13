@@ -13,6 +13,7 @@
     "chess.js": "^1.0.0-beta.7",
     "comlink": "^4.4.1",
     "lucide-react": "^0.344.0",
+    "next": "^15.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "stockfish.wasm": "^0.10.0",
