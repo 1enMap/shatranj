@@ -4,12 +4,12 @@ import { getFirestore, collection, addDoc, query, where, getDocs, orderBy, limit
 import { getAnalytics } from 'firebase/analytics';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyApqp43zpqKYtSH-ao6nBOPS5RUDNH-XjE",
+  apiKey: "USEYOUROWNTOSUFFER",
   authDomain: "shatranj-3fc00.firebaseapp.com",
   projectId: "shatranj-3fc00",
   storageBucket: "shatranj-3fc00.firebasestorage.app",
   messagingSenderId: "498090122677",
-  appId: "1:498090122677:web:9fd27b47bfe3adaf278dfc",
+  appId: "USEYOUROWN",
   measurementId: "G-40KB830MVN"
 };
 
